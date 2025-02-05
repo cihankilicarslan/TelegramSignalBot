@@ -1,4 +1,4 @@
-Crypto Signal Bot
+Crypto Signal Bot (app.py)
 This bot is designed to analyze cryptocurrency market data and send trading signals via Telegram. It uses technical indicators like RSI, MACD, support/resistance levels, and large trade detection to provide insights into potential buy/sell opportunities.
 
 Features
