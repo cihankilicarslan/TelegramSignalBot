@@ -136,7 +136,7 @@ async def scheduled_task():
     while True:
         await send_signals()  # Send signals
         print("Message sent to Telegram.")
-        await asyncio.sleep(900)  # Wait for 5 minutes
+        await asyncio.sleep(301)  # Wait for 5 minutes
       
 # Run the bot
 def main():
